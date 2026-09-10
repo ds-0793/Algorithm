@@ -1,3 +1,3 @@
 # Alogrithm2026
 
-Homework/selectionSorting.pde
+[SelectionSort](Homework/SelectionSort.pde)
