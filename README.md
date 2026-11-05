@@ -5,4 +5,4 @@
 [postifix](Homework/postifix.pde)
 ![postifix 결과](Homework/125.png)
 [postifix](Homework/sketch_261105c.pde)
-![Pebble Placement Problem]()
+![Pebble Placement Problem](Homework/1556.png)
