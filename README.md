@@ -2,7 +2,7 @@
 
 [SelectionSort](Homework/SelectionSort.pde)
 ![Selection Sort 결과](Homework/123s.png)
-[bubblesort 결과](Homeworkbubblesort.pde)
+[bubblesort](Homeworkbubblesort.pde)
 ![bubblesort 결과](Homework/bubblesort.png)
 [insertionsort](Homework/insertionsort.pde)
 ![insertionsort 결과](Homework/insertionsort.png)
